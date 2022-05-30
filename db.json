@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "logitech",
+      "price": 16,
+      "quantity": 10,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "SSD-MEMORY",
+      "price": 74,
+      "quantity": 7,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "screent",
+      "price": 57,
+      "quantity": 23,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "mouse",
+      "price": 21,
+      "quantity": "124",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "test last",
+      "price": 89.67,
+      "quantity": "3",
+      "selected": false,
+      "available": false,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "test A",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "sss",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": false,
+      "id": 7
+    }
+  ]
+}
